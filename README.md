@@ -1,5 +1,6 @@
 # McHERO
 
+
 This is a mod of zeroantix HERO theme.
 
 This theme includes integration of the following extensions, install and configure those for most bang for your buck:
@@ -10,10 +11,10 @@ This theme includes integration of the following extensions, install and configu
 * DuplicateHider - will display other versions when the '...' button is pressed in the game details page
 * SuccessStory - for displaying achievement progress on game details page
 
-![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/2023.01.30-12.39.png)
-![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/2023.01.30-12.37.png)
-![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/2023.01.30-12.38.png)
-![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/2023.01.30-12.37_01.png)
+![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/00.png)
+![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/01.png)
+![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/02.png)
+![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/03.png)
 
 A few caveats I would like to address.
 * You can change or add images shown in the tabs on the main page by placing files corresponding to your preset names into the theme folder under Icons > Filter.
