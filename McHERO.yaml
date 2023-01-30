@@ -4,3 +4,9 @@ Packages:
     RequiredApiVersion: 2.4.0
     ReleaseDate: 2023-01-30
     PackageUrl: https://github.com/seannuh/McHERO/releases/download/1.0.3/McHERO.pthm
+    Changelog:
+          - Added support for LibraryManagement feature icons and NewsViewer.
+          - Rearranged some information in GameDetails based on feature icon integration.
+          - Added controller button information at the top of the screen.
+          - Added back shortcut for grid view.
+          - Other minor adjustments.
