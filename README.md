@@ -19,8 +19,8 @@ This theme includes integration of the following extensions, install and configu
 
 Below are the recommended settings that you'll want to set in both fullscreen and desktop settings.
 
-![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/settings rec.png)
-![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/settings rec 2.png)
+![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/settings00.png)
+![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/settings01.png)
 
 A few caveats I would like to address.
 * Horizontal and vertical view will be skewed (and possibly broken) when covers are not set to 1:1 aspect ratio in desktop settings as shown above.
