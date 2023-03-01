@@ -11,11 +11,12 @@ This theme includes integration of the following extensions, install and configu
 * DuplicateHider - will display other versions when the '...' button is pressed in the game details page
 * SuccessStory - for displaying achievement progress on game details page
 
-![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/00.png)
-![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/01.png)
-![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/02.png)
-![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/03.png)
-![picture alt](https://github.com/seannuh/McHERO/blob/main/MEDIA/04.png)
+![main page tab highlighted](https://github.com/seannuh/McHERO/blob/main/MEDIA/00.png)
+![game details](https://github.com/seannuh/McHERO/blob/main/MEDIA/01.png)
+![game detail screenshotvisualizer](https://github.com/seannuh/McHERO/blob/main/MEDIA/02.png)
+![game details newsviewer](https://github.com/seannuh/McHERO/blob/main/MEDIA/03.png)
+![main page game highlighted](https://github.com/seannuh/McHERO/blob/main/MEDIA/04.png)
+![sample video](https://peertube.tv/w/kgvzpWvhzfhwsr4vSXVikM)
 
 Below are the recommended settings that you'll want to set in both fullscreen and desktop settings.
 
