@@ -1,11 +1,16 @@
 AddonId: McHERO
 Packages:
-  - Version: 1.0.5
+  - Version: 1.0.8
     RequiredApiVersion: 2.4.0
-    ReleaseDate: 2023-02-02
-    PackageUrl: https://github.com/seannuh/McHERO/releases/download/1.0.5/McHERO.pthm
+    ReleaseDate: 2023-03-01
+    PackageUrl: https://github.com/seannuh/McHERO/releases/download/1.0.8/McHERO.pthm
     Changelog:
-          - Modified how game titles are shown on game covers.
-          - If game has no cover art, the game title will be displayed.
-          - Added HowLongToBeat information on the game details screen.
-          - Made some changes to grid view, more to come.
+            - Due to some changes in how the main page cover art is displayed, please see the Github readme for recommended settings, issue may occur otherwise.
+            - Cover art will now show in its unique aspect ratio rather than being cropped.
+            - Currently selected cover art will now display larger.
+            - Notifications and program updates will now always be shown on main page if available rather then hiding like the rest of the top bar.
+            - Game background will now react to blur and darken changes in fullscreen settings.
+            - Filter preset titles will now be displayed in text alongside icon when tab is in focus.
+            - The play/install button on the game details page is now slightly taller than the rest of the buttons.
+            - Redid some animations on game details page that were causing the logo to glitch.
+            - Other minor improvements.
