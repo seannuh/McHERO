@@ -1,11 +1,10 @@
 AddonId: McHERO
 Packages:
-  - Version: 1.1.0
+  - Version: 1.1.1
     RequiredApiVersion: 2.4.0
-    ReleaseDate: 2023-06-12
-    PackageUrl: https://github.com/seannuh/McHERO/releases/download/1.1/McHERO.pthm
+    ReleaseDate: 2023-06-13
+    PackageUrl: https://github.com/seannuh/McHERO/releases/download/1.1.1/McHERO.pthm
     Changelog:
-       - THE ANIMATION UPDATE - I added a lot of little animations throughout the UI to make everything feel a little smoother, hopefully I didn't overdo it.
-       - The main page now has integration for micro trailers which will need to be downloaded or generated from the ExtraMetaDataLoader addon.
-          - The width change when the trailer loads is designed around square covers, this can easily be changed in the ListGameItemStyle xaml located in the DerivedStyles folder. Search for !--FOCUS WIDTH in that file and read the note there to modify to your liking.
-       - The main page will also now show logos, also from ExtraMetaDataLoader if available when the game is in focus for a short period of time.
+        - Added a startup animation.
+        - Used an alternative method for the cover blur, might help with performance, might not.
+        - Cleaned up unnecessary files and other minor fixes.
