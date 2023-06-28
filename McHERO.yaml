@@ -1,11 +1,9 @@
 AddonId: McHERO
 Packages:
-  - Version: 1.1.2
+  - Version: 1.1.3
     RequiredApiVersion: 2.4.0
-    ReleaseDate: 2023-06-20
-    PackageUrl: https://github.com/seannuh/McHERO/releases/download/1.1.2/McHERO.pthm
+    ReleaseDate: 2023-06-28
+    PackageUrl: https://github.com/seannuh/McHERO/releases/download/1.1.3/McHERO.pthm
     Changelog:
-        - Fixed blank screen when search or filter results were empty.
-        - Fixed some DuplicateHider issues.
-        - Fixed issue with tabs when no filter icon was present.
-        - Added a splash of color to the startup animation.
+        - Some design changes to the main screen to make it more in line with game details page (no more tabs, just floating icons and buttons).
+        - Other minor changes.
