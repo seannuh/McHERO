@@ -7,9 +7,10 @@ This theme includes integration of the following extensions, install and configu
 * LibraryManagement - for feature icons
 * ScreenshotVisualizer - for displaying screenshots taken in game, currently displayed in alphabetical order based on screenshot file names
 * ExtraMetadataLoader - for displaying logos and trailers, trailers will stream directly from Steam if game is in Steam library or has a link to it's Steam page
-* NewsViewer - will display most recent news article from Steam only, open web button does not work
+* NewsViewer - will display most recent news article from Steam only, open web button does not work, also display currently online players
 * DuplicateHider - will display other versions when the '...' button is pressed in the game details page
 * SuccessStory - for displaying achievement progress on game details page
+* HowLongToBeat - displays common playtimes on game details page
 
 ![main page tab highlighted](https://github.com/seannuh/McHERO/blob/main/MEDIA/00.png)
 ![game details](https://github.com/seannuh/McHERO/blob/main/MEDIA/01.png)
